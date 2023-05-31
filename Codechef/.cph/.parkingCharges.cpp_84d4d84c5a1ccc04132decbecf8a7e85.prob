@@ -1,0 +1,1 @@
+{"name":"Local: parkingCharges","url":"d:\\Coding\\C++\\CodeChef\\parkingCharges.cpp","tests":[{"id":1684939577825,"input":"10 1 5","output":""},{"id":1684939584672,"input":"1 10 100","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\C++\\CodeChef\\parkingCharges.cpp","group":"local","local":true}
