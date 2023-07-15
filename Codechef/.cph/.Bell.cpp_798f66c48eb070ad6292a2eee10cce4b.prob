@@ -1,0 +1,1 @@
+{"name":"Local: Bell","url":"d:\\Coding\\CP\\CodeChef\\Bell.cpp","tests":[{"id":1687967331621,"input":"2\n3 2\n3 2 1\n4 3\n3 2 4 1","output":""},{"id":1687967623877,"input":"1\n5 2\n1 2 3 4 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\CP\\CodeChef\\Bell.cpp","group":"local","local":true}

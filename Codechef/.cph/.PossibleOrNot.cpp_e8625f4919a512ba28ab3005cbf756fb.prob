@@ -1,0 +1,1 @@
+{"name":"Local: PossibleOrNot","url":"d:\\Coding\\CP\\CodeChef\\PossibleOrNot.cpp","tests":[{"id":1686756754381,"input":"2\n6 5\n1 7 3 4 2 13\n3 2\n1 3 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\CP\\CodeChef\\PossibleOrNot.cpp","group":"local","local":true}

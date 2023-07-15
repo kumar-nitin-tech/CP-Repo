@@ -1,0 +1,1 @@
+{"name":"Local: TransfusionChain","url":"d:\\Coding\\CP\\CodeChef\\TransfusionChain.cpp","tests":[{"id":1687359979239,"input":"4\n3\nA B A\n2\nA B\n4\nA B O B\n5\nAB A A AB A","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\CP\\CodeChef\\TransfusionChain.cpp","group":"local","local":true}
